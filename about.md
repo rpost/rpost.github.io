@@ -8,6 +8,6 @@ permalink: /about/
 
 Good question! ;)
 
-### Contact me
+### You can ask:
 
 [postolowicz@gmail.com](mailto:postolowicz@gmail.com)
