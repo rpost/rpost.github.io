@@ -18,16 +18,16 @@ avatar: https://i.stack.imgur.com/KD7Cx.jpg?s=256&g=1
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: postolowicz@gmail.com
   facebook:
   flickr:
-  github:
+  github: rpost
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: rss # just type anything here for a working RSS icon
   twitter:
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/4800355/radek-posto%C5%82owicz # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
