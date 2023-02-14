@@ -1,0 +1,2 @@
+1. SB - fractal of bad design
+2. https://reflectoring.io/validate-spring-boot-configuration-parameters-at-startup/
